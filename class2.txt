@@ -5,7 +5,6 @@ lengthOfDogHair (string)
 typeOfBreed (string)
 male (boolean)
 sizeOfDog (integer)
-blueCollar (string)
 
 Methods:
 changeCollar (goesFromBlueToRed)
