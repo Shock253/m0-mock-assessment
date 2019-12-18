@@ -2,8 +2,8 @@ Class: Glass
 
 Attributes:
 color (string)
-totalCapacity (integer)
-currentCapacity (integer)
+totalCapacity (float)
+currentCapacity (float)
 
 Methods:
 calculatePercentFull (divides currentCapacity by totalCapacity)
