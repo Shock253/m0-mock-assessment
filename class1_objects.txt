@@ -2,10 +2,10 @@ Object: Dinner Glass
 
 Attributes:
 color: "Pink"
-totalCapacity 1000
-currentCapacity 800
+totalCapacity 1000.0
+currentCapacity 800.0
 
 Methods:
-calculatePercentFull: 800 / 1000 = .8
+calculatePercentFull: 800.0 / 1000.0 = .8
 changeColor: color = "Blue"
-clean: glass now clean
+emptyGlass: currentCapacity = 0
